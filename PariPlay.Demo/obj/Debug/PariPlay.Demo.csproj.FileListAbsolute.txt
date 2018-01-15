@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\PariPlay.Demo\PariPlay.Demo\bin\Debug\PariPlay.Demo.exe.config
+C:\Users\User\source\repos\PariPlay.Demo\PariPlay.Demo\bin\Debug\PariPlay.Demo.exe
+C:\Users\User\source\repos\PariPlay.Demo\PariPlay.Demo\bin\Debug\PariPlay.Demo.pdb
+C:\Users\User\source\repos\PariPlay.Demo\PariPlay.Demo\obj\Debug\PariPlay.Demo.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\PariPlay.Demo\PariPlay.Demo\obj\Debug\PariPlay.Demo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PariPlay.Demo\PariPlay.Demo\obj\Debug\PariPlay.Demo.exe
+C:\Users\User\source\repos\PariPlay.Demo\PariPlay.Demo\obj\Debug\PariPlay.Demo.pdb
+C:\GitHubProject\PariPlay.Demo\PariPlay.Demo\bin\Debug\PariPlay.Demo.exe.config
+C:\GitHubProject\PariPlay.Demo\PariPlay.Demo\bin\Debug\PariPlay.Demo.exe
+C:\GitHubProject\PariPlay.Demo\PariPlay.Demo\bin\Debug\PariPlay.Demo.pdb
+C:\GitHubProject\PariPlay.Demo\PariPlay.Demo\obj\Debug\PariPlay.Demo.csprojResolveAssemblyReference.cache
+C:\GitHubProject\PariPlay.Demo\PariPlay.Demo\obj\Debug\PariPlay.Demo.csproj.CoreCompileInputs.cache
+C:\GitHubProject\PariPlay.Demo\PariPlay.Demo\obj\Debug\PariPlay.Demo.exe
+C:\GitHubProject\PariPlay.Demo\PariPlay.Demo\obj\Debug\PariPlay.Demo.pdb
