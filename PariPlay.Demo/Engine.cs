@@ -3,7 +3,6 @@ using PariPlay.Demo.Interfaces;
 using System;
 using System.IO;
 using System.Text;
-using System.Threading;
 
 namespace PariPlay.Demo
 {
@@ -13,7 +12,7 @@ namespace PariPlay.Demo
         private IWriter writeOutputInConsole;
         private static Engine instance;
 
-        // Lock synchronization object ?????
+        // Lock synchronization object
         private static object syncLock = new object();
 
         protected Engine()
