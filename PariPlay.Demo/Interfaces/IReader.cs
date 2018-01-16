@@ -1,6 +1,6 @@
 ﻿namespace PariPlay.Demo.Interfaces
 {
-    public interface IInput
+    public interface IReader
     {
         string ReadLine();
     }

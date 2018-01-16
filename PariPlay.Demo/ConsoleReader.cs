@@ -3,7 +3,7 @@ using System;
 
 namespace PariPlay.Demo
 {
-    public class ConsoleInput : IInput
+    public class ConsoleReader : IReader
     {
         public string ReadLine()
         {

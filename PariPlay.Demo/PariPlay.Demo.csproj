@@ -42,11 +42,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConsoleWriter.cs" />
     <Compile Include="Engine.cs" />
     <Compile Include="Helpers\Helper.cs" />
     <Compile Include="Interfaces\IEngine.cs" />
-    <Compile Include="Interfaces\IInput.cs" />
-    <Compile Include="ConsoleInput.cs" />
+    <Compile Include="Interfaces\IReader.cs" />
+    <Compile Include="ConsoleReader.cs" />
+    <Compile Include="Interfaces\IWriter.cs" />
     <Compile Include="StartUp.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
